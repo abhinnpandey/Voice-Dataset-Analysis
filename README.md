@@ -18,4 +18,10 @@ This dataset contains male and female labels for each voice sample.
 This Repository contains a detailed analysis of Voice dataset
 
 NOTE: 
-This repositories dataset in zip format can be downloaded from:here(https://github.com/abhinnpandey/Voice-Dataset-Analysis/blob/master/Voice%20dataset%20analysis/voice.csv) 
+This repositories dataset in zip format can be downloaded from [here](https://github.com/abhinnpandey/Voice-Dataset-Analysis/blob/master/Voice%20dataset%20analysis/voice.csv) 
+
+
+````
+To use it download it, unzip and copy .csv file in same folder as jupyter notebook 
+````
+
